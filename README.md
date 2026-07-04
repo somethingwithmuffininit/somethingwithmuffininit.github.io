@@ -8,16 +8,16 @@ Some previous work:
 
 1. In class research project for a graduate course on derivative pricing. Tested if the results of the lottery ticket hypothesis hold when applied to neural networks used to hedge derivatives. Primary references:
 
-    Buehler, H., Gonon, L., Teichmann, J., & Wood, B. (2019). Deep hedging. Quantitative Finance, 19(8), 1271–1291. https://10.1080/14697688.2019.1571683
+    >Buehler, H., Gonon, L., Teichmann, J., & Wood, B. (2019). Deep hedging. Quantitative Finance, 19(8), 1271–1291. https://10.1080/14697688.2019.1571683
 
-    Frankle, J., & Carbin, M. (2018). The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks. https://doi.org/10.48550/arxiv.1803.03635
+    >Frankle, J., & Carbin, M. (2018). The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks. https://doi.org/10.48550/arxiv.1803.03635
 
 [PDF](https://github.com/user-attachments/files/29651454/paper.pdf)
 
 
 2. In class research project for a graduate course on Bayesian Statistics. Review and implementation of Bayesian filtering methods for solving ODES and sampling from SDEs. Primary reference: 
 
-    Yvann Le Fay. Simo Särkkä. Adrien Corenflos. "Modelling Pathwise Uncertainty of Stochastic Differential Equations Samplers via Probabilistic Numerics." Bayesian Anal. Advance Publication 1 - 24, 2025. https://doi.org/10.1214/25-BA1522
+    >Yvann Le Fay. Simo Särkkä. Adrien Corenflos. "Modelling Pathwise Uncertainty of Stochastic Differential Equations Samplers via Probabilistic Numerics." Bayesian Anal. Advance Publication 1 - 24, 2025. https://doi.org/10.1214/25-BA1522
 
 [PDF](https://github.com/user-attachments/files/29651391/paper.pdf)
 
