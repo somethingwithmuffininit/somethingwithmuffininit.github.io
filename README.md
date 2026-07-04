@@ -6,7 +6,7 @@ Current master's research (to be submitted for degree requirements) pertains to 
 
 Some previous work:
 
-1. In class research project for a graduate course on derivative pricing. Tested if the results of the lottery ticket hypothesis hold when applied to neural networks used to hedge derivatives. Primary references:
+1. In class research project for a graduate course on derivative pricing. Showed that the results of the lottery ticket hypothesis hold when applied to neural networks used to hedge derivatives. Primary references:
 
     >Buehler, H., Gonon, L., Teichmann, J., & Wood, B. (2019). Deep hedging. Quantitative Finance, 19(8), 1271–1291. https://10.1080/14697688.2019.1571683
 
