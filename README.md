@@ -15,7 +15,7 @@ Some previous work:
 [PDF](https://github.com/user-attachments/files/29651454/paper.pdf)
 
 
-2. In class research project for a graduate course on Bayesian Statistics. Review and implementation of Bayesian filtering methods for solving ODES and sampling from SDEs. Primary reference: 
+2. In class research project for a graduate course on Bayesian Statistics. Reviewed, implementated and tested Bayesian filtering methods for solving ODES and sampling from SDEs. Primary reference: 
 
     >Yvann Le Fay. Simo Särkkä. Adrien Corenflos. "Modelling Pathwise Uncertainty of Stochastic Differential Equations Samplers via Probabilistic Numerics." Bayesian Anal. Advance Publication 1 - 24, 2025. https://doi.org/10.1214/25-BA1522
 
