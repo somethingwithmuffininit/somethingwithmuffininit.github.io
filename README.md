@@ -20,6 +20,6 @@ Some previous work:
 
     >Yvann Le Fay. Simo Särkkä. Adrien Corenflos. "Modelling Pathwise Uncertainty of Stochastic Differential Equations Samplers via Probabilistic Numerics." Bayesian Anal. Advance Publication 1 - 24, 2025. https://doi.org/10.1214/25-BA1522
 
-    [PDF](https://github.com/user-attachments/files/29651391/paper.pdf)
+    [Paper PDF](https://github.com/user-attachments/files/29651391/paper.pdf)
 
 
