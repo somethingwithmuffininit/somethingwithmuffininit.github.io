@@ -3,7 +3,6 @@ This site is a work in progress.
 Current master's research (to be submitted for degree requirements) pertains to the use of rough path theory to model optimal hedging strategies for path dependent derivatives under rough volatility. I aim to show that, under a multi-asset generalization of existing rough-volatility models, the optimal hedge varies continuously with the path history. This continuity result provides theoretical justification for using signature kernels, and other signature-based machine learning methods, for the hedging of path-dependent derivatives in incomplete markets.
 
 
-
 Some previous work:
 
 1. In class research project for a graduate course on derivative pricing. Showed that the results of the lottery ticket hypothesis hold when applied to neural networks used to hedge derivatives. Implementation in JAX. Primary references:
@@ -16,10 +15,10 @@ Some previous work:
    
     [Slides PDF](https://github.com/user-attachments/files/29651577/slides.pdf)
 
-3. In class research project for a graduate course on Bayesian statistics. Reviewed, implementated and tested Bayesian filtering methods for solving ODES and sampling from SDEs. Implementation in JAX. Primary reference: 
+2. In class research project for a graduate course on Bayesian statistics. Reviewed, implementated and tested Bayesian filtering methods for solving ODES and sampling from SDEs. Implementation in JAX. Primary reference: 
 
     >Yvann Le Fay. Simo Särkkä. Adrien Corenflos. "Modelling Pathwise Uncertainty of Stochastic Differential Equations Samplers via Probabilistic Numerics." Bayesian Anal. Advance Publication 1 - 24, 2025. https://doi.org/10.1214/25-BA1522
 
     [Paper PDF](https://github.com/user-attachments/files/29651391/paper.pdf)
 
-
+    [Slides PDF](https://github.com/user-attachments/files/29652208/presentation.pdf)
