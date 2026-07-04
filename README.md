@@ -12,13 +12,13 @@ Some previous work:
 
     >Frankle, J., & Carbin, M. (2018). The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks. https://doi.org/10.48550/arxiv.1803.03635
 
-[PDF](https://github.com/user-attachments/files/29651454/paper.pdf)
+    [PDF](https://github.com/user-attachments/files/29651454/paper.pdf)
 
 
 2. In class research project for a graduate course on Bayesian Statistics. Reviewed, implementated and tested Bayesian filtering methods for solving ODES and sampling from SDEs. Primary reference: 
 
     >Yvann Le Fay. Simo Särkkä. Adrien Corenflos. "Modelling Pathwise Uncertainty of Stochastic Differential Equations Samplers via Probabilistic Numerics." Bayesian Anal. Advance Publication 1 - 24, 2025. https://doi.org/10.1214/25-BA1522
 
-[PDF](https://github.com/user-attachments/files/29651391/paper.pdf)
+    [PDF](https://github.com/user-attachments/files/29651391/paper.pdf)
 
 
